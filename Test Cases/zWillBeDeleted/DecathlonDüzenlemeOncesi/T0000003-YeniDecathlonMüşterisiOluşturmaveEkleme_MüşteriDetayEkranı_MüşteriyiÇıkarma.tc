@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T0000003-YeniDecathlonMüşterisiOluşturmaveEkleme_MüşteriDetayEkranı_MüşteriyiÇıkarma</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>11533034-1ee1-41d0-a033-3214259062c5</testCaseGuid>
+   <variable>
+      <defaultValue>'GSAY28'</defaultValue>
+      <description></description>
+      <id>ade9a36b-f418-4a01-9d33-641392480391</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'decathlon'</defaultValue>
+      <description></description>
+      <id>6912ce27-fb01-4cb6-afce-3303a82b621f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

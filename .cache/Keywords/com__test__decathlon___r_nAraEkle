@@ -1,0 +1,49 @@
+{
+  "keywordFileContentHash": "1095C373365AC29344C4A9A1440053C0",
+  "keywordClasses": [
+    {
+      "name": "com.test.decathlon.ürünAraEkle",
+      "keywordMethods": [
+        {
+          "name": "urunAra",
+          "parameters": [
+            {
+              "name": "urun",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "urunAraEkle",
+          "parameters": [
+            {
+              "name": "urun",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T0000009-AktifSepet_AskiyaAlma</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58b5a7c9-c86b-490d-b227-90a547160070</testCaseGuid>
+   <variable>
+      <defaultValue>'GSAY28\r\n'</defaultValue>
+      <description></description>
+      <id>c71f722c-0382-48fd-8aa0-4f010c1165c4</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'decathlon'</defaultValue>
+      <description></description>
+      <id>74731e9a-2cf9-4abf-a93f-b960368d4597</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'hasan\r\n'</defaultValue>
+      <description></description>
+      <id>96f89b33-273c-4b9d-ba5d-dac17a5b16e3</id>
+      <masked>false</masked>
+      <name>searchText</name>
+   </variable>
+</TestCaseEntity>

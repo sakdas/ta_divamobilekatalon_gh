@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "D73235389736D9979A3515239F534C07",
+  "keywordClasses": [
+    {
+      "name": "com.test.random.randomVars",
+      "keywordMethods": [
+        {
+          "name": "randomSerialNumber",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

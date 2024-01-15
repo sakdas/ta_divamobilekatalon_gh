@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "A29155642057D545AFF8EACFC17453DE",
+  "keywordClasses": [
+    {
+      "name": "com.test.randomUser.newRandomUser",
+      "keywordMethods": [
+        {
+          "name": "newUser",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

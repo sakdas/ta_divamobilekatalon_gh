@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "CAF0FA87B95006DAD2901D319867163F",
+  "keywordClasses": [
+    {
+      "name": "com.test.randomData.getRandomNameSurname",
+      "keywordMethods": [
+        {
+          "name": "generateRandomName",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "generateRandomSurname",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "generateRandomNameSurname",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

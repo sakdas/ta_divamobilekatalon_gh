@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T0000005-BilinmeyenÜrününBarkod_SGTIN_SepeteEkle_Sil</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ac24cde-a8a6-41b5-ac5b-99916dfdc4a7</testCaseGuid>
+   <variable>
+      <defaultValue>'GSAY28\r\n'</defaultValue>
+      <description></description>
+      <id>fced9223-161f-4093-815b-f6c53fe0297e</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'decathlon\r\n'</defaultValue>
+      <description></description>
+      <id>31ea84a4-f8bb-4232-93e0-8c6f04ffb185</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

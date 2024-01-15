@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T0000002-ÜrünDetayEkranıGörseliGörüntüleme_SepeteEkleme</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8714673-b5d5-404e-a7b8-680884f0ac99</testCaseGuid>
+   <variable>
+      <defaultValue>'GSAY28\r\n'</defaultValue>
+      <description></description>
+      <id>65b0a959-4a50-4bbf-bd43-a9ee77c5ce26</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'decathlon'</defaultValue>
+      <description></description>
+      <id>9e6eb623-3967-4fd6-8016-b01b99168bdc</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'poset'</defaultValue>
+      <description></description>
+      <id>e6892b5b-cc16-424a-96f3-48d22553f3ee</id>
+      <masked>false</masked>
+      <name>urun</name>
+   </variable>
+   <variable>
+      <defaultValue>'Light 500 Su Geçirmez'</defaultValue>
+      <description></description>
+      <id>2ef3fb07-9f7c-4fc4-8576-a891833a3ab9</id>
+      <masked>false</masked>
+      <name>urun2</name>
+   </variable>
+</TestCaseEntity>

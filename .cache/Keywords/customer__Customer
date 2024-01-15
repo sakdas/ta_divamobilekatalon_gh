@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "2A1A0D7500A04AB75D9C8BD9C4DC1682",
+  "keywordClasses": [
+    {
+      "name": "customer.Customer",
+      "keywordMethods": [
+        {
+          "name": "SearchCustomer",
+          "parameters": [
+            {
+              "name": "searchText",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

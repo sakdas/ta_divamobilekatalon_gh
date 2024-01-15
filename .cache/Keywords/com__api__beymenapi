@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "1F5CBF5C3F34FA4305BBE4C34E5568D6",
+  "keywordClasses": [
+    {
+      "name": "com.api.beymenapi",
+      "keywordMethods": [
+        {
+          "name": "beymenApiLogin",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "AC13464D277A6BC761D9AF708A558DD5",
+  "keywordClasses": [
+    {
+      "name": "com.test.randomUser.getRandomNameSurname",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

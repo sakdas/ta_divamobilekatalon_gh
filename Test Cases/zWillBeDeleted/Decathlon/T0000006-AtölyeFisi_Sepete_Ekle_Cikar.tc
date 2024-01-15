@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T0000006-AtölyeFisi_Sepete_Ekle_Cikar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>497afe2a-d2f8-4c53-b9c9-2acc1bc21aea</testCaseGuid>
+   <variable>
+      <defaultValue>'GSAY28'</defaultValue>
+      <description></description>
+      <id>ba315876-3b7d-460c-ba4c-b12f27274474</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'decathlon\r\n'</defaultValue>
+      <description></description>
+      <id>3834a000-dbce-4b76-af95-cc7ef7536c11</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T0000004-AskidakiSatislariListeleme_Filtreleme</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f656535-bc81-4b80-a472-ddba57a996ed</testCaseGuid>
+   <variable>
+      <defaultValue>'GSAY28'</defaultValue>
+      <description></description>
+      <id>27d8b1fd-631c-4d57-b42c-9b252913498f</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'decathlon'</defaultValue>
+      <description></description>
+      <id>7f33f8bc-8380-4b0e-88ce-5288f8d27a12</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'poset'</defaultValue>
+      <description></description>
+      <id>80e56028-eb02-4296-ad6b-6a43e5c291db</id>
+      <masked>false</masked>
+      <name>urun</name>
+   </variable>
+</TestCaseEntity>

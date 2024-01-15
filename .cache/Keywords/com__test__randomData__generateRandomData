@@ -1,0 +1,50 @@
+{
+  "keywordFileContentHash": "DAD5CE5A6BACC2A7F7CD438C127311E8",
+  "keywordClasses": [
+    {
+      "name": "com.test.randomData.generateRandomData",
+      "keywordMethods": [
+        {
+          "name": "generateRandomName",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "generateRandomSurname",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "generateRandomNameSurname",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "getRandomString",
+          "parameters": [
+            {
+              "name": "len",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "generateRandomID",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

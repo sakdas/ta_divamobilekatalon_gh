@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "99CBA015370F1DDE76BD9DEBC1312D17",
+  "keywordClasses": [
+    {
+      "name": "com.test.decathlon.logout.Logout",
+      "keywordMethods": [
+        {
+          "name": "goLogout",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "83FE11E947850347474294700DCEE8FF",
+  "keywordClasses": [
+    {
+      "name": "com.test.random.getRandomName",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

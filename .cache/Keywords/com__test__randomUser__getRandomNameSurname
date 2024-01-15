@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "883CB9C3A07E582C64D2573E2CEB9BEA",
+  "keywordClasses": [
+    {
+      "name": "com.test.randomUser.getRandomNameSurname",
+      "keywordMethods": [
+        {
+          "name": "generateRandomName",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

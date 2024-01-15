@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03_CustomerUpdate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b467c019-ec1a-4140-be9f-610672442996</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0ea24500-82f8-4aab-ac6f-295d0fbcf069</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>3393cbae-0f2c-4629-ad86-921e66ef51bf</id>
+      <masked>false</masked>
+      <name>startX</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>4ddc2469-96af-4c0e-99ca-224db2c450e2</id>
+      <masked>false</masked>
+      <name>startY</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>34d78c4b-a95f-4169-a604-3eac2d4eee8a</id>
+      <masked>false</masked>
+      <name>endX</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>13eef8f0-5806-4ced-b0bc-873364154251</id>
+      <masked>false</masked>
+      <name>endY</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T0000007-DivaDecathlonMusteri_EkleCikar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51ebf5d3-0cfd-4814-aa97-26bace0a9b15</testCaseGuid>
+   <variable>
+      <defaultValue>'GSAY28'</defaultValue>
+      <description></description>
+      <id>4fcffa58-da55-4f8b-929b-6ee41d8b7e72</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'decathlon'</defaultValue>
+      <description></description>
+      <id>6301e3b7-e499-4b83-8050-596eb35c06aa</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

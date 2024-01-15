@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>99_SwipeTrial</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>483ef165-b3d4-4c7e-a099-24f0976b39c3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>afe48434-644a-4ea6-b35f-af01b0894e5c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>afe48434-644a-4ea6-b35f-af01b0894e5c</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+</TestCaseEntity>

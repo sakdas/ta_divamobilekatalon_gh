@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DecathlonTestSuite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>ccbcf30c-2401-4c8a-857e-5b9eac4034ab</testSuiteGuid>
+   <testCaseLink>
+      <guid>b434ae65-db98-42dd-92d1-6d824babc867</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/zWillBeDeleted/Decathlon/T0000001-Login_InfoButonu_MüsteriArama_Logout</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5969fa64-8a60-4c07-8cb6-bcf0d2fa9060</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0dda7a79-1b50-47ad-a102-8b33191d46e8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>49fe804e-b01b-4889-8d94-94af66c7526f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>62791ced-eaf6-4d44-8d12-f16841785320</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/zWillBeDeleted/DecathlonDüzenlemeOncesi/T0000002-Ürün Arama_ÜrünDetayEkranınAçılması_ÜrünGörselininGörüntülenmesi_SepeteÜrünEkleme</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>998addcd-d22c-4672-9b2a-9fb5059e211c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/zWillBeDeleted/DecathlonDüzenlemeOncesi/T0000003-YeniDecathlonMüşterisiOluşturmaveEkleme_MüşteriDetayEkranı_MüşteriyiÇıkarma</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ade9a36b-f418-4a01-9d33-641392480391</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6912ce27-fb01-4cb6-afce-3303a82b621f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7ad85f53-7b43-49a4-b675-29ee34845540</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/zWillBeDeleted/DecathlonDüzenlemeOncesi/T0000004-AskıdakiSatışlarıListeleme_Filtreleme</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

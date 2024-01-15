@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Regression</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://divarelease.logo.com.tr/divapos'</initValue>
+      <name>DRURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'mobile.kasiyer01'</initValue>
+      <name>DRKasiyer1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1'</initValue>
+      <name>DRKasiyerParola</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://divarelease.logo.com.tr/divaposdecathlon'</initValue>
+      <name>DRDecathlonURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'GKAYA11'</initValue>
+      <name>DRDecathlonKasiyer1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'decathlon'</initValue>
+      <name>DRDecathlonKasiyerParola</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

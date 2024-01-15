@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01_NewCustomer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6f46a925-adf6-4acf-b9d2-1176ddf4cd5c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>539836a7-ce79-4e24-8e7a-c2c23894cb2e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>539836a7-ce79-4e24-8e7a-c2c23894cb2e</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+</TestCaseEntity>

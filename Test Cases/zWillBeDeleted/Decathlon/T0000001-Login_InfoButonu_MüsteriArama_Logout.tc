@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T0000001-Login_InfoButonu_MüsteriArama_Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4bf9f66-f0a2-4a81-a3f1-7f642a62b3eb</testCaseGuid>
+   <variable>
+      <defaultValue>'GSAY28'</defaultValue>
+      <description></description>
+      <id>5969fa64-8a60-4c07-8cb6-bcf0d2fa9060</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'decathlon'</defaultValue>
+      <description></description>
+      <id>0dda7a79-1b50-47ad-a102-8b33191d46e8</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'ceren'</defaultValue>
+      <description></description>
+      <id>49fe804e-b01b-4889-8d94-94af66c7526f</id>
+      <masked>false</masked>
+      <name>searchText</name>
+   </variable>
+</TestCaseEntity>

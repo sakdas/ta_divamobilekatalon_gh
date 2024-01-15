@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "E4FE82B4D4F55DBB9A220A8AAAB9CE79",
+  "keywordClasses": [
+    {
+      "name": "com.api.divaretailapi",
+      "keywordMethods": [
+        {
+          "name": "divaRetailApiLogin",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

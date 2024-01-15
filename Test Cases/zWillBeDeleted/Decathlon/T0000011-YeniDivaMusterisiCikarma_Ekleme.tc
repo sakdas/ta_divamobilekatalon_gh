@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T0000011-YeniDivaMusterisiCikarma_Ekleme</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a0ad71b-a797-4a60-97ca-a210e53393cb</testCaseGuid>
+   <variable>
+      <defaultValue>'GSAY28\r\n'</defaultValue>
+      <description></description>
+      <id>80ed8ad3-c790-486c-b40f-189c6a7fa57a</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'decathlon'</defaultValue>
+      <description></description>
+      <id>2135e3b2-5ae2-426f-9ee7-aa712733989a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

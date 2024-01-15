@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T0000008-MusteriBilgileri_Guncelleme</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da14dacd-a78b-46a9-8300-087d45e7b9bd</testCaseGuid>
+   <variable>
+      <defaultValue>'GSAY28\r\n'</defaultValue>
+      <description></description>
+      <id>71aece5c-79f5-406d-8edc-44da7a73f0a1</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'decathlon'</defaultValue>
+      <description></description>
+      <id>2b7d8717-856e-453e-8120-6dd78a08662c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
