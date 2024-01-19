@@ -4,9 +4,10 @@
    <name>DecathlonTestScenario2</name>
    <tag></tag>
    <UUID>ea9116e3-b564-4595-a560-cb9c6d2bc934</UUID>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>D:\Projects\ta_divamobilekatalon\DecathlonTestScenario2.prj</projectFileLocation>
+   <projectFileLocation>D:\Projects\ta_divamobilekatalon_gh\DecathlonTestScenario2.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

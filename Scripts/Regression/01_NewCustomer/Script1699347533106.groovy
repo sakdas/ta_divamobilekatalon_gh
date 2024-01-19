@@ -17,9 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-public static void EnablePermission(boolean isEnable) {
-	DesiredCapabilities.android().setCapability("autoGrantPermissions", isEnable);
-}
 
 Mobile.startApplication('D:\\tmp\\app-DivaMobileSales-release.apk', true)
 
