@@ -18,6 +18,11 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 
+
+
+
+DesiredCapabilities.android().setCapability("autoGrantPermissions", isEnable)
+
 Mobile.startApplication('D:\\tmp\\app-DivaMobileSales-release.apk', true)
 
 Mobile.tap(findTestObject('Mobile/Intro/android.widget.InfoButton'), 10)
